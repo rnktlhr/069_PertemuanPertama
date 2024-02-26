@@ -2,7 +2,8 @@
 #include <iostream>
 using namespace std;
 int main()
-{
+{//bagin
+
 	int nPanjang, nLebar, nLuas;
 	cout << "Masukan Panjang= ";
 	cin >> nPanjang; 
