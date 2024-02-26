@@ -2,10 +2,11 @@
 #include <iostream>
 using namespace std;
 int main()
-{//bagin
+{//begin
+
 
 	int nPanjang, nLebar, nLuas;
-	cout << "Masukan Panjang= ";
+	cout << "Masukan Panjang = ";
 	cin >> nPanjang; 
 	cout << "Masukan Lebar = ";
 	cin >> nLebar;  
